@@ -123,3 +123,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+data
+setup_info.txt
+MLFeed Snorkel Example.ipynb
+mlfeed_helpers.py
+mtl_helpers.py
